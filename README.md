@@ -1,1 +1,2 @@
 # King-County-House-Price-Prediction
+Occupants in each network in the area are confronting an exceptional challenge in finding and keeping a home they can bear. This dataset contains house deal costs for King County, which incorporates Seattle. It incorporates homes sold between May 2014 and May 2015. Using Machine Learning Algorithms and Statistical Analysis, we predict house sale prices. Visualized data using R and Tableau, dreaw interesting facts from th visualizations. 
